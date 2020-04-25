@@ -324,6 +324,7 @@ html_redirect_pages = [
 		('boards/arm/efr32_slwstk6061a/doc/efr32_slwstk6061a', 'boards/arm/efr32_slwstk6061a/doc/index'),
 		('boards/arm/frdm_k64f/doc/frdm_k64f', 'boards/arm/frdm_k64f/doc/index'),
 		('boards/arm/frdm_kl25z/doc/frdm_kl25z', 'boards/arm/frdm_kl25z/doc/index'),
+		('boards/arm/frdm_kl26z/doc/frdm_kl26z', 'boards/arm/frdm_kl26z/doc/index'),
 		('boards/arm/frdm_kw41z/doc/frdm_kw41z', 'boards/arm/frdm_kw41z/doc/index'),
 		('boards/arm/hexiwear_k64/doc/hexiwear_k64', 'boards/arm/hexiwear_k64/doc/index'),
 		('boards/arm/hexiwear_kw40z/doc/hexiwear_kw40z', 'boards/arm/hexiwear_kw40z/doc/index'),
