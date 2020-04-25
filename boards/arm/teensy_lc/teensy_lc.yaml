@@ -1,0 +1,19 @@
+identifier: teensy_lc
+name: Teensy LC
+type: mcu
+arch: arm
+ram: 8
+flash: 64
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+testing:
+  ignore_tags:
+    - net
+    - bluetooth
+supported:
+  - adc
+  - gpio
+  - i2c
+  - usb_device

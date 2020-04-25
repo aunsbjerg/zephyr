@@ -1,0 +1,9 @@
+# FRDM-KL26Z board
+
+# Copyright (c) 2020, Prevas A/S
+# SPDX-License-Identifier: Apache-2.0
+
+config BOARD_TEENSY_LC
+	bool "Teensy LC"
+	depends on SOC_SERIES_KINETIS_KL2X
+	select SOC_PART_NUMBER_MKL26Z64VFT4

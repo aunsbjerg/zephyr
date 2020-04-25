@@ -401,6 +401,7 @@ html_redirect_pages = [
 		('boards/arm/stm32f769i_disco/doc/stm32f769i_disco', 'boards/arm/stm32f769i_disco/doc/index'),
 		('boards/arm/stm32l476g_disco/doc/stm32l476g_disco', 'boards/arm/stm32l476g_disco/doc/index'),
 		('boards/arm/stm32l496g_disco/doc/stm32l496g_disco', 'boards/arm/stm32l496g_disco/doc/index'),
+		('boards/arm/teensy_lc/doc/teensy_lc', 'boards/arm/stm32l496g_disco/doc/index'),
 		('boards/arm/udoo_neo_full_m4/doc/udoo_neo_full', 'boards/arm/udoo_neo_full_m4/doc/index'),
 		('boards/arm/usb_kw24d512/doc/usb_kw24d512', 'boards/arm/usb_kw24d512/doc/index'),
 		('boards/arm/v2m_beetle/doc/v2m_beetle', 'boards/arm/v2m_beetle/doc/index'),
